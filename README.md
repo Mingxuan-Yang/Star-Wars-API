@@ -1,5 +1,7 @@
 # Data Extraction Using Star Wars API
 
+*Project Date: 2020-10-17*
+
 ## Introduction
 
 This project is to extract data through SWAPI, the Star Wars API, in the Python environment. The details of SWAPI can be obtained at its [documentation](https://swapi.dev/documentation). SWAPI provides six attributes about Star Wars. They are
